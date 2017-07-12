@@ -1,0 +1,39 @@
+#anchor {
+  width: 750px;
+  height:250px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#location {
+  width: 400px;
+  height: 100px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding: 20px;
+}
+
+#hours {
+  width: 400px;
+  height: 200px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding: 20px;
+}
+
+a{
+  text-decoration: none;
+  color:#afa9a1;
+}
+
+a:hover{
+  color:#ff8989;
+  text-decoration: none;
+  font-weight: bold;
+}

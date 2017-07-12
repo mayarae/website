@@ -1,0 +1,39 @@
+#phone {
+  width: 300px;
+  height: 80px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+#fish {
+  width: 400px;
+  height: 100px;
+  border: 1px;
+  border-radius: 0px;
+  padding-top: 20px;
+  margin-left: -300px;
+}
+
+#insta {
+  width: 300px;
+  height: 80px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+a{
+  text-decoration: none;
+  color:#afa9a1;
+}
+
+a:hover{
+  color:#ff8989;
+  text-decoration: none;
+  font-weight: bold;
+}
