@@ -1,0 +1,77 @@
+ul {
+  width: 10%;
+    margin: auto;
+}
+
+div {
+  width: 937px;
+  height: 6430px;
+  display: inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px
+}
+
+#appetizers {
+  width: 400px;
+  height: 100px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding-top: 20px;
+}
+
+#meals {
+  width: 400px;
+  height: 100px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding-top: 20px;
+}
+
+#drinks {
+  width: 400px;
+  height: 100px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding-top: 20px;
+}
+
+#desserts_drinks {
+  float: right;
+  width: 937px;
+  height: 3050px;
+  display: inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+}
+
+#desserts {
+  width: 400px;
+  height: 100px;
+  display:inline-block;
+  border: 1px solid #afa9a1;
+  border-radius: 0px;
+  padding-top: 20px;
+}
+
+#fish {
+  width: 400px;
+  height: 100px;
+  display:inline-block;
+  border: 1px;
+  border-radius: 0px;
+  padding-top: 20px;
+}
+
+a{
+  text-decoration: none;
+  color:#afa9a1;
+}
+
+a:hover{
+  color:#ff8989;
+  text-decoration: none;
+  font-weight: bold;
+}
